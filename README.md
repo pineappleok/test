@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mintui
 
 > A Vue.js project
@@ -31,4 +31,4 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
 # test
->>>>>>> 65ac80c66c148b1a0f5a750944522cbc3010c844
+
